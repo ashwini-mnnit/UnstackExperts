@@ -5,9 +5,9 @@ This is course project as part of Information Retrieval project. We identify the
 by analysing their contribution to open community. For this project we have considered stack overflow data
 for filtering talent depending on the their contribution(posts) in the community.
 
-application - contains user interface component of the project.
-web service - contains python based web service. application fetches consuming this servicee.
-scripts -  contiain the python scripts for data processing.
+application/ - contains user interface component of the project.
+Web service/ - contains python based web service. application fetches consuming this servicee.
+scripts/ -  contiain the python scripts for data processing.
 
 
 
